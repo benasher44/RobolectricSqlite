@@ -1,4 +1,4 @@
-package sample
+package com.example.robolectricSqlite
 
 actual class Sample {
     actual fun checkMe() = 7

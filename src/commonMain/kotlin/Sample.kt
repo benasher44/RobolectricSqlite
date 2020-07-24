@@ -1,4 +1,4 @@
-package sample
+package com.example.robolectricSqlite
 
 expect class Sample() {
     fun checkMe(): Int

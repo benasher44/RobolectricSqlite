@@ -1,4 +1,4 @@
-package sample
+package com.example.robolectricSqlite
 
 import kotlin.test.Test
 import kotlin.test.assertTrue

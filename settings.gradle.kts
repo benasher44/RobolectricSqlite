@@ -1,4 +1,4 @@
-rootProject.name = "KotlinMobileBootstrap"
+rootProject.name = "RobolectrictSqlite"
 pluginManagement {
     repositories {
         gradlePluginPortal()
